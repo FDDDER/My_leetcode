@@ -1,6 +1,8 @@
 #include<iostream>
 int main()
 {
+changed();
+another changed;
 	cout<<"fuck";
 	return 0;
 }
